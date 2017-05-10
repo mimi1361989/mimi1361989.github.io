@@ -1,0 +1,82 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mimiportfolio.com" resolutions="1x" timestamp="1494411421069">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_master-for-menu.css" crc="39937853" ref="中文:tiếng-việt:contact-me"/>
+    <file name="index.css" crc="3913645612" ref="index"/>
+    <file name="__.css" crc="4284835282" ref="中文"/>
+    <file name="ti_ng-vi_t.css" crc="4284835282" ref="tiếng-việt"/>
+    <file name="contact-me.css" crc="4130590720" ref="contact-me"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume-(eng-language)-_-thuy-duong-hoang.pdf" crc="195412441" seo="true" mt="1492503225000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="中文:contact-me:index:tiếng-việt"/>
+    <file name="museutils.js" crc="4232573551" ref="中文:contact-me:index:tiếng-việt"/>
+    <file name="whatinput.js" crc="86476730" ref="中文:contact-me:index:tiếng-việt"/>
+    <file name="museconfig.js" crc="4152223963" ref="中文:contact-me:index:tiếng-việt"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="中文:contact-me:index:tiếng-việt"/>
+    <file name="require.js" crc="4234670167" ref="中文:contact-me:index:tiếng-việt"/>
+    <file name="webpro.js" crc="3770351119" ref="contact-me:index"/>
+    <file name="form_check.php" crc="3841221102" ref="contact-me"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact-me"/>
+    <file name="form_process.php" crc="3899230280" ref="contact-me"/>
+    <file name="form-u3021.php" crc="14931004" ref="contact-me"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="contact page photo.jpg" crc="3900610401" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="message.png" crc="3987699486" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="hidden-lake-footprint-2048x1365.jpg" crc="519974535" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="wallpaper-1d9e1e.jpg" crc="4176150955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="allora-sunflowers7-2048x1365.jpg" crc="4100088070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="56647226-baking-wallpapers.jpg" crc="4045819199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="professional photo.jpg" crc="4255053976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="employment.png" crc="3975249190" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1560.png" crc="3982070206" ref="index"/>
+    <file name="u1584.png" crc="42243737" ref="index"/>
+    <file name="education.png" crc="119199825" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1781.png" crc="42243737" ref="index"/>
+    <file name="u1784.png" crc="251443590" ref="index"/>
+    <file name="skills icon.png" crc="470673253" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1945.png" crc="4063489330" ref="index"/>
+  </folder>
+  <file name="中文.html" crc="408010352" seo="true" mt="1494320339320" redirect="true"/>
+  <file name="contact-me.html" crc="228570995" seo="true" mt="1494320339320" redirect="true"/>
+  <file name="index.html" crc="473800797" seo="true" mt="1494320978318" redirect="true"/>
+  <file name="tiếng-việt.html" crc="213781742" seo="true" mt="1494320339320" redirect="true"/>
+</manifest>
